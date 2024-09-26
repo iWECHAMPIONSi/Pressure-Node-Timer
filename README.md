@@ -1,4 +1,7 @@
 # Pressure-Node-Timer
+
+**MacOS version coming in October...**
+
 This is for those who want an easier estimate of when a node monster spawns.
 
 Note that Timer.py is just for those who wish to view the source code
