@@ -29,6 +29,8 @@ When you start this, it's automatically set at door 0
   - **']'**: Press whenever a node monster despawns due to node timer
   - **'='**: Press to set the current room to a hiding spot (_mainly for GOS and TBS_)
   - **';'**: **(RIDGE ONLY)** Press to toggle if blitz or front angler spawns (_**remember to toggle again after they despawn**_)
+
+Remember to press ']' after the first angler spawns (regardless of variant) as the node timer does not start until the first angler spawns
   
 Don't worry if you click on the window, press Enter
 
