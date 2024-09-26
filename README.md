@@ -1,7 +1,7 @@
 # Pressure-Node-Timer
-This is for those who want an easier way to estimate when a node monster spawns.
+This is for those who want an easier estimate of when a node monster spawns.
 When you start this, it's automatically set at door 0
-Features:
+**Features:**
   - Displays the current room you are at in the program
   - Displays the number of doors you have passed since the last node timer spawn
   - Displays the room number of the hiding spot
@@ -17,9 +17,9 @@ Features:
       - Ability to toggle when blitz or a front angler spawns/despawns
           - Note that it assumes a door was opened before being toggled, as it adds 10 seconds to the spawn timer (doors subtract 10 seconds)
 
-Hotkeys:
-  '[': Press when you open a door
-  ']': Press whenever a node monster despawns due to node timer
-  '=': Press to set the current room to a hiding spot (Mainly for GOS and TBS)
-  ';': (RIDGE ONLY) Press to toggle if blitz or front angler spawns (remember to toggle again after they despawn)
+**Hotkeys:**
+  - **'['**: Press when you open a door
+  - **']'**: Press whenever a node monster despawns due to node timer
+  - **'='**: Press to set the current room to a hiding spot (_mainly for GOS and TBS_)
+  - **';'**: **(RIDGE ONLY)** Press to toggle if blitz or front angler spawns (_**remember to toggle again after they despawn**_)
   
