@@ -1,8 +1,5 @@
 import time, os
 from pynput import keyboard
-# Instructions: Anytime an angler spawns due to the node timer (meaning that it isn't likely due to late flicker)
-# Press "]", Any time you open a door, press "[", and when fangler or blitz spawns in the ridge, press ";" to toggle, 
-# (make sure to toggle off after)
 
 start = time.time_ns()
 
