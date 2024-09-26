@@ -1,5 +1,6 @@
 # Pressure-Node-Timer
 This is for those who want an easier estimate of when a node monster spawns.
+Note that Timer.py is just for those who wish to view the source code
 When you start this, it's automatically set at door 0
 **Features:**
   - Displays the current room you are at in the program
