@@ -16,9 +16,10 @@ Features:
       - Displays an estimated time until a loan angler will spawn (assuming it's a dead period)
       - Ability to toggle when blitz or a front angler spawns/despawns
           - Note that it assumes a door was opened before being toggled, as it adds 10 seconds to the spawn timer (doors subtract 10 seconds)
+
 Hotkeys:
   '[': Press when you open a door
   ']': Press whenever a node monster despawns due to node timer
   '=': Press to set the current room to a hiding spot (Mainly for GOS and TBS)
-  ';': (RIDGE ONLY) Press to toggle if blitz or a front angler spawns (remember to toggle again after they despawn)
+  ';': (RIDGE ONLY) Press to toggle if blitz or front angler spawns (remember to toggle again after they despawn)
   
