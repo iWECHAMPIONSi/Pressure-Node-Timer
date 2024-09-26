@@ -30,3 +30,6 @@ When you start this, it's automatically set at door 0
   - **'='**: Press to set the current room to a hiding spot (_mainly for GOS and TBS_)
   - **';'**: **(RIDGE ONLY)** Press to toggle if blitz or front angler spawns (_**remember to toggle again after they despawn**_)
   
+Don't worry if you click on the window, press Enter
+
+But don't press ctrl+c (closes the program)
