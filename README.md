@@ -36,4 +36,4 @@ Don't worry if you click on the window, press Enter
 
 But don't press ctrl+c (closes the program)
 
-Credit to the Urbanshade: Sigma Division Dicord server for all information used in this tool
+Credit to the "Urbanshade: Sigma Division" Discord server for all information used in this tool
